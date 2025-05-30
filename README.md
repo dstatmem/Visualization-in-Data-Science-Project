@@ -6,9 +6,9 @@ This project presents an interactive **Shiny dashboard** to explore football mat
 
 Use code:
 
-Download the full map structure and unzip the Data.zip.
-Change work directory in the main file. 
-Run main file.
+Download the full map structure and unzip the Data.zip.\
+Change work directory in the main file. \
+Run main file.\
 
 
 project/\
