@@ -13,7 +13,7 @@ Run main file.
 
 project/
 │
-├── Main.R                      # Main code to run
+├── Main.R                      # Main code to run /n
 ├── Data_prelim                 # UI code for Shiny dashboard
 │   └── Data_entry.R            # Loads data needed for the project
 │   └── Data_prelim.R           # Merges data 
