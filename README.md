@@ -30,6 +30,6 @@ project/\
 │   └── 3_ui.R                  # User interface graph 3\
 ├── README.md                   # Project documentation\
 ├── data.zip/\
-│   └── data.csv                # All data-files needed\
+│   └── data.csv                # All data-files needed
 
 
