@@ -11,7 +11,7 @@ Change work directory in the main file.
 Run main file.
 
 
-project/
+project/\
 │
 ├── Main.R                      # Main code to run \
 ├── Data_prelim/                # UI code for Shiny dashboard \
